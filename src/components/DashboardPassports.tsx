@@ -21,7 +21,7 @@ const DashboardPassports: React.FC<DashboardPassportsProps> = ({
     {
       id: "1",
       did: "did:ethr:0x1234...5678",
-      name: "Alex Johnson",
+      name: "A*** J******",
       age: 28,
       country: "United States",
       gigPlatform: "Uber/Lyft",
@@ -44,7 +44,7 @@ const DashboardPassports: React.FC<DashboardPassportsProps> = ({
     {
       id: "2",
       did: "did:ethr:0xabcd...efgh",
-      name: "Maria Rodriguez",
+      name: "M**** R********",
       age: 34,
       country: "Mexico",
       gigPlatform: "DoorDash/Instacart",
@@ -67,7 +67,7 @@ const DashboardPassports: React.FC<DashboardPassportsProps> = ({
     {
       id: "3",
       did: "did:ethr:0xdef0...1234",
-      name: "James Chen",
+      name: "J**** C***",
       age: 31,
       country: "United States",
       gigPlatform: "TaskRabbit/Fiverr",
