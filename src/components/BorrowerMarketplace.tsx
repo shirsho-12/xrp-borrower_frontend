@@ -318,7 +318,7 @@ const BorrowerMarketplace: React.FC<BorrowerMarketplaceProps> = ({
                     Loan Amount:
                   </span>
                   <span className="font-bold text-lg">
-                    ₦{borrower.loanAmount.toLocaleString()}
+                    ${borrower.loanAmount.toLocaleString()}
                   </span>
                 </div>
                 <div className="flex items-center justify-between">
